@@ -1,0 +1,12 @@
+{
+   "name": "MiniDoodle",
+   "description": "Collaborative drawing canvas",
+   "author": "Richard Bao",
+   "dependencies" : {
+      "express": "4.x",
+      "socket.io": "*"
+   },
+   "engines": {
+    "node": "9.5.0"
+  }
+}
